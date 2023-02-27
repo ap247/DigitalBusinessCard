@@ -3,7 +3,7 @@ import React from "react";
 export default function Main() {
     return (
         <div className="main">
-            <img className="profilepic" src="../src/assets/ProfilePic.png"/>
+            <img className="profilepic" src="ProfilePic.png"/>
             <div className="textcontent">
                 <div className="subtitle">
                     <h1 className="name">Anish Prasad</h1>
@@ -13,12 +13,12 @@ export default function Main() {
                 <div className="textbuttons">
                     <button className="btnemail" onClick={openMailAddress}>
                     <span class="btnicon">
-                        <img src="../src/assets/Mail.png" alt="Email Icon"/>
+                        <img src="Mail.png" alt="Email Icon"/>
                     </span>
                     Email</button>
                     <button className="btnlinkedin" onClick={openLnProfile}>
                     <span class="btnicon">
-                        <img src="../src/assets/linkedin.png" alt="LinkedIn Icon"/>
+                        <img src="linkedin.png" alt="LinkedIn Icon"/>
                     </span>
                     LinkedIn</button>
                 </div>
