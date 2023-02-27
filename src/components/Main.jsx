@@ -8,7 +8,7 @@ export default function Main() {
                 <div className="subtitle">
                     <h1 className="name">Anish Prasad</h1>
                     <p className="profession">Software Developer</p>
-                    <small className="site">anishprasad.website</small>
+                    <small className="site">https://ap247.github.io/DigitalBusinessCard/</small>
                 </div>
                 <div className="textbuttons">
                     <button className="btnemail" onClick={openMailAddress}>
