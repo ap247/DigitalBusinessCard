@@ -23,9 +23,9 @@ export default function Main() {
                     LinkedIn</button>
                 </div>
                 <h1>About</h1>
-                <p>I am a software developer with a particular interest in building new and unique products/services. I look to keep up with security and best practices, and I'm always looking for new things to learn.</p>
+                <p>I'm a software developer with a particular interest in building new and unique products/services. I look to write fully-tested, clean code that follows previous conventions, while also pushing quick feature production and product iteration.</p>
                 <h1>Interests</h1>
-                <p>Food expert. Tennis fiend. Internet fanatic. Sparkling water conossuir. Crossword enthusiast.</p>
+                <p>Tennis, Running, Skiing, New Cuisines, Geopolitics, Music Discovery, Group Chat Dynamics</p>
             </div>
         </div>
     )
