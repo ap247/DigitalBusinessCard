@@ -23,7 +23,7 @@ export default function Main() {
                     LinkedIn</button>
                 </div>
                 <h1>About</h1>
-                <p>I'm a software developer with a particular interest in building new and unique products/services. I look to write fully-tested, clean code that follows previous conventions, while also pushing quick feature production and product iteration.</p>
+                <p>I'm a software developer with an interest in building new and novel products/services. I look to write well-tested, clean code that follows established conventions, while also pushing quick feature production and product iteration.</p>
                 <h1>Interests</h1>
                 <p>Tennis, Running, Skiing, New Cuisines, Geopolitics, Music Discovery, Group Chat Dynamics</p>
             </div>
